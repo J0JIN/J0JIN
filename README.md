@@ -3,8 +3,8 @@
 </p>
 
 <div align='center'>
-    <div>SNS</div>
-<a href="https://velog.io/@tl5235566/posts">
+    <div><b>SNS</b></div>
+<a href="https://velog.io/@tl5235566/posts" style="margin-right: 10px;">
   <img alt="velog" width="40px" src="./velog.svg" />
 </a>
 <a href="https://www.notion.so/851d395e20d445b08af7ba5af1ba0d41">
@@ -12,12 +12,12 @@
 </a>
 <br/><br/>
 
-<div>Skill</div>
-<img alt="Java" width="40px" src="./java.svg" />
-<img alt="Javascript" width="40px" src="./javascript.svg" />
-<img alt="vuedotjs" width="40px" src="./vuedotjs.svg" />
-<img alt="mysql" width="40px" src="./mysql.svg" />
-<img alt="spring" width="40px" src="./spring.svg" />
-<img alt="springboot" width="40px" src="./springboot.svg" />
+<div><b>Tech Stack</b></div>
+<img alt="Java" width="40px" src="./java.svg" style="margin-right: 10px;" />
+<img alt="Javascript" width="40px" src="./javascript.svg" style="margin-right: 10px;" />
+<img alt="vuedotjs" width="40px" src="./vuedotjs.svg" style="margin-right: 10px;" />
+<img alt="mysql" width="40px" src="./mysql.svg" style="margin-right: 10px;" />
+<img alt="spring" width="40px" src="./spring.svg" style="margin-right: 10px;" />
+<img alt="springboot" width="40px" src="./springboot.svg" style="margin-right: 10px;" />
 <img alt="docker" width="40px" src="./docker.svg" />
 </div>
