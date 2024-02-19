@@ -4,7 +4,7 @@
 
 <div align='center'>
 <a href="https://velog.io/@tl5235566/posts">
-  <img alt="velog" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
+  <img alt="velog" width="40px" src="./velog.svg" />
 </a>
 <br/><br/>
 </div>
