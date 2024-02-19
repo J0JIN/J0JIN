@@ -3,8 +3,14 @@
 </p>
 
 <div align='center'>
+    <div>blog</div>
 <a href="https://velog.io/@tl5235566/posts">
   <img alt="velog" width="40px" src="./velog.svg" />
 </a>
 <br/><br/>
+
+<div>Skill</div>
+  <img alt="velog" width="40px" src="./velog.svg" />
+  <img alt="velog" width="40px" src="./velog.svg" />
+<img alt="velog" width="40px" src="./velog.svg" />
 </div>
