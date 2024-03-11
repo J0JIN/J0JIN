@@ -16,6 +16,7 @@
 <img alt="Java" width="40px" src="./java.svg" />&nbsp;
 <img alt="Javascript" width="40px" src="./javascript.svg" />&nbsp;
 <img alt="vuedotjs" width="40px" src="./vuedotjs.svg" />&nbsp;
+<img alt="react" width="40px" src="./react.svg" />&nbsp;
 <img alt="mysql" width="40px" src="./mysql.svg" />&nbsp;
 <img alt="spring" width="40px" src="./spring.svg" />&nbsp;
 <img alt="springboot" width="40px" src="./springboot.svg" />&nbsp;
