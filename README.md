@@ -84,9 +84,9 @@ API·DB·배치·보안장비 연동 구조 개선을 통해 관제 지연과 �
   <a href="https://github.com/J0JIN/splunk-api-benchmark">
     <img src="https://img.shields.io/badge/Repository-Splunk%20API%20Benchmark-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://github.com/splunk/splunk-sdk-python/pull/742">
+  <!-- <a href="https://github.com/splunk/splunk-sdk-python/pull/742">
     <img src="https://img.shields.io/badge/OpenSource%20PR-Splunk%20SDK-000000?style=for-the-badge&logo=splunk"/>
-  </a>
+  </a> -->
 </p>
 
 ---
